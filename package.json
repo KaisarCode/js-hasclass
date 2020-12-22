@@ -1,0 +1,20 @@
+{
+  "name": "kc-hasclass",
+  "version": "1.0.3",
+  "description": "[browser] Check if DOM element has a class.",
+  "main": "hasclass.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaisarCode/JSUtils.git"
+  },
+  "keywords": [
+    "element",
+    "has class"
+  ],
+  "author": "KaisarCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaisarCode/JSUtils/issues"
+  },
+  "homepage": "https://github.com/KaisarCode/JSUtils/blob/master/hasclass"
+}
