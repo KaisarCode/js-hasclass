@@ -1,6 +1,6 @@
 {
   "name": "kc-hasclass",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "[browser] Check if DOM element has a class.",
   "main": "hasclass.js",
   "repository": {
